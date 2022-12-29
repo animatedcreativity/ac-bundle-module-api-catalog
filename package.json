@@ -1,0 +1,20 @@
+{
+  "name": "ac-bundle-module-api-catalog",
+  "version": "0.0.2",
+  "description": "api/catalog.js: A module bundled by ac-bundle-module.",
+  "main": "api/catalog.js",
+  "scripts": {
+    "start": "node api/catalog.js"
+  },
+  "keywords": [
+    "api/catalog.js",
+    "ac-bundle-app",
+    "ac-bundle-module"
+  ],
+  "repository": {
+    "url": "https://animatedcreativity.com/code/node-js/ac-bundle-module/modules/ac-bundle-module-api-catalog/"
+  },
+  "author": "Animated Creativity",
+  "license": "MIT",
+  "dependencies": {}
+}
